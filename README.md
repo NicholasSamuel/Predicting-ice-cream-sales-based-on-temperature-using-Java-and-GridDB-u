@@ -1,1 +1,1 @@
-# Predicting-ice-cream-sales-based-on-temperature-using-Java-and-GridDB-u
+# Predicting-ice-cream-sales-based-on-temperature-using-Java-and-GridDB
